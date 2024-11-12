@@ -24,3 +24,27 @@ To run this project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Predicting-House-Prices.git
+
+2. Navigate into the project directory:
+   ```bash
+   cd Predicting-House-Prices
+3. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook Predicting House Prices.ipynb
+Dataset
+Dataset Name: House Prices Data
+Source: Include a link to the dataset if it's publicly available or describe how to access it.
+Results
+The final model achieved a mean squared error (MSE) of [Insert Value] and an R² score of [Insert Value] on the test dataset, indicating good predictive accuracy.
+
+Future Improvements
+Explore feature engineering techniques to improve model accuracy.
+Experiment with additional machine learning models such as Random Forest, Gradient Boosting, and XGBoost.
+Integrate a web interface to allow users to input data and get real-time predictions.
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Acknowledgments
+Special thanks to the data science and machine learning communities for resources and open-source tools that made this project possible.
+
+
